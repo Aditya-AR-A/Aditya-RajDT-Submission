@@ -1,0 +1,41 @@
+Company Name,Website,Bulk/Retail,Brand/Non-Brand,Category,Category_Type,Category_Health,Relevance
+Nestle,www.nestle.com,Bulk,Brand,F&B,probiotics,gut_health,Not Relevant
+Dr. Reddy's Laboratories,www.drreddys.com,Bulk,Brand,Distributors,probiotics,womens_health,Relevant
+Coca-Cola,www.coca-colacompany.com,Retail,Brand,F&B,probiotics,womens_health,Relevant
+Pfizer,www.pfizer.com,Bulk,Non-Brand,Health Segments,fortification,womens_health,Relevant
+PepsiCo,www.pepsico.com,Retail,Brand,F&B,probiotics,gut_health,Relevant
+Johnson & Johnson,www.jnj.com,Retail,Brand,Health Segments,fortification,womens_health,Relevant
+Danone,www.danone.com,Retail,Brand,F&B,probiotics,womens_health,Relevant
+Bayer,www.bayer.com,Bulk,Non-Brand,Health Segments,fortification,womens_health,Relevant
+General Mills,www.generalmills.com,Retail,Brand,F&B,probiotics,gut_health,Relevant
+GlaxoSmithKline (GSK),www.gsk.com,Bulk,Non-Brand,Health Segments,fortification,womens_health,Relevant
+Kellogg’s,www.kelloggs.com,Retail,Brand,F&B,probiotics,gut_health,Relevant
+Merck & Co.,www.merck.com,Bulk,Non-Brand,Health Segments,probiotics,womens_health,Relevant
+Unilever,www.unilever.com,Retail,Brand,Health Segments,probiotics,womens_health,Relevant
+Roche,www.roche.com,Bulk,Brand,F&B,probiotics,gut_health,Relevant
+Nestle Waters,www.nestlewaters.com,Bulk,Brand,F&B,probiotics,gut_health,Not Relevant
+Sanofi,www.sanofi.com,Bulk,Non-Brand,Health Segments,probiotics,womens_health,Relevant
+Mondelez International,www.mondelezinternational.com,Bulk,Brand,F&B,probiotics,womens_health,Relevant
+Novartis,www.novartis.com,Bulk,Non-Brand,Formulations,probiotics,womens_health,Relevant
+Kraft Heinz,www.kraftheinzcompany.com,Bulk,Brand,F&B,fortification,gut_health,Relevant
+Eli Lilly and Company,www.lilly.com,Bulk,Non-Brand,Health Segments,probiotics,cognitive_health,Relevant
+Tyson Foods,www.tysonfoods.com,Bulk,Brand,Health Segments,probiotics,cognitive_health,Relevant
+Teva Pharmaceuticals,www.tevapharm.com,Bulk,Non-Brand,Formulations,fortification,cognitive_health,Relevant
+Mars Incorporated,www.mars.com,Bulk,Brand,F&B,fortification,womens_health,Relevant
+AbbVie,www.abbvie.com,Bulk,Non-Brand,Formulations,probiotics,womens_health,Relevant
+Campbell Soup Company,www.campbellsoupcompany.com,Bulk,Brand,F&B,probiotics,womens_health,Relevant
+Amgen,www.amgen.com,Bulk,Brand,Formulations,fortification,womens_health,Relevant
+Conagra Brands,www.conagrabrands.com,Bulk,Brand,F&B,probiotics,gut_health,Not Relevant
+AstraZeneca,www.astrazeneca.com,Retail,Brand,Formulations,fortification,womens_health,Relevant
+Molson Coors,www.molsoncoors.com,Bulk,Brand,F&B,probiotics,gut_health,Relevant
+Boehringer Ingelheim,www.boehringeringelheim.com,Bulk,Brand,F&B,probiotics,gut_health,Relevant
+AB InBev,www.abinbev.com,Retail,Brand,Formulations,fortification,womens_health,Relevant
+BASF,www.basf.com,Bulk,Brand,Formulations,probiotics,womens_health,Relevant
+Diageo,www.diageo.com,Retail,Brand,Health Segments,fortification,womens_health,Relevant
+Procter & Gamble (P&G),www.pg.com,Retail,Brand,Formulations,probiotics,gut_health,Relevant
+Heineken,www.theheinekencompany.com,Retail,Brand,Distributors,probiotics,womens_health,Relevant
+Medtronic,www.medtronic.com,Bulk,Brand,Formulations,fortification,womens_health,Relevant
+McKesson,www.mckesson.com,Retail,Brand,Distributors,probiotics,womens_health,Relevant
+AmerisourceBergen,www.amerisourcebergen.com,Retail,Brand,Distributors,fortification,womens_health,Relevant
+Cardinal Health,www.cardinalhealth.com,Retail,Brand,Distributors,fortification,womens_health,Relevant
+Medline Industries,www.medline.com,Bulk,Brand,F&B,probiotics,gut_health,Relevant
